@@ -1,0 +1,12 @@
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\bin\Debug\net5.0\GymLive.Domain.deps.json
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\bin\Debug\net5.0\GymLive.Domain.dll
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\bin\Debug\net5.0\ref\GymLive.Domain.dll
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\bin\Debug\net5.0\GymLive.Domain.pdb
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.csproj.AssemblyReference.cache
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.AssemblyInfoInputs.cache
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.AssemblyInfo.cs
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.dll
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\ref\GymLive.Domain.dll
+C:\Users\vinicius\source\repos\aws\GymLive\GymLive.Domain\obj\Debug\net5.0\GymLive.Domain.pdb

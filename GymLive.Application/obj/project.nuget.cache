@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQZ8eDX/z8J1FSuCGHXATFVtsmOVxLMZSAwwPd326Zj+N8SOG2tfwmkpAaZpRR6X9NY9xWY/vlUtgAQeUI8gBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinicius\\source\\repos\\aws\\GymLive\\GymLive.Application\\GymLive.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
